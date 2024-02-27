@@ -12,7 +12,7 @@ title                    : "Karan's Homepage"
 title_separator          : "-"
 name                     : &name "Karan Malhotra"
 description              : &description "personal description"
-url                      : https://Karan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://enigma02.github.io/Karan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enigma02.github.io/Karan.github.io/"
 
